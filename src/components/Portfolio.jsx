@@ -1,7 +1,7 @@
 import React from 'react';
 // import second from 'first'
 import Inventory from '../assets/portfolio/Inventory.jpg';
-import LMS from '../assets/portfolio/LMS.png';
+import logo192 from '../assets/portfolio/logo192.png';
 import TweeterClone from '../assets/portfolio/TweeterClone.png';
 
 import { motion, useAnimation } from 'framer-motion';
@@ -50,7 +50,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: 'Dice game',
+      src: logo192,
       title: 'Dice Game',
       demo: '#',
       code: 'https://github.com/Meronmeron/Dicegame-react',
