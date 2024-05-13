@@ -39,7 +39,7 @@ const Portfolio = () => {
       src: Inventory,
       title: 'QR Code Based Inventory Management System',
       demo: 'https://mikiasmiessa.000webhostapp.com/inventory/Products.php',
-      code: 'https://github.com/Mikias-Miessa/QRcode-based-inventory-management-system',
+      code: 'https://github.com/Meronmeron/QRcode-based-inventory-management-system-main',
     },
     {
       id: 2,
@@ -50,10 +50,10 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: LMS,
-      title: 'Library Management System',
+      src: 'Dice game',
+      title: 'Dice Game',
       demo: '#',
-      code: 'https://github.com/Mikias-Miessa/Library-Management-System',
+      code: 'https://github.com/Meronmeron/Dicegame-react',
     },
   ];
   return (
